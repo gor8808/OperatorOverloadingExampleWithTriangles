@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\bin\Debug\netcoreapp2.2\Triangle.deps.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\bin\Debug\netcoreapp2.2\Triangle.runtimeconfig.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\bin\Debug\netcoreapp2.2\Triangle.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\bin\Debug\netcoreapp2.2\Triangle.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\bin\Debug\netcoreapp2.2\Triangle.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\obj\Debug\netcoreapp2.2\Triangle.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\obj\Debug\netcoreapp2.2\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\obj\Debug\netcoreapp2.2\Triangle.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\obj\Debug\netcoreapp2.2\Triangle.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\obj\Debug\netcoreapp2.2\Triangle.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\Triangle\Triangle\obj\Debug\netcoreapp2.2\Triangle.pdb
